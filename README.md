@@ -1,5 +1,11 @@
-## Hi there 👋
+<h1>Hi, I'm Maciej! </h1>
 
+<h2>Who am I?</h2>
+🎓 Computer Science Student | Junior Developer  <br>
+💻 Technologies:  Python / Active Directory / CISCO Hardware / C / C++ <br>
+🚀 Looking for job / internship<br>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 <!--
 **gladiator-19/gladiator-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
